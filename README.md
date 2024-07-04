@@ -1,4 +1,3 @@
-﻿﻿<align"center">   
 
 # awesome-Bev-Occupancy-course
 A communicative learning repository on learning from BEV to Occupancy
